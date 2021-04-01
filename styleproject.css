@@ -1,0 +1,30 @@
+.navbar-default .navbar-brand {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1, h2{
+	color: #5A57FF;
+	font-size: 50px;
+	font-family: 'Dela Gothic One', cursive;
+	transition: all 1s;
+}
+h1:hover,h2:hover{
+	transform: scale(1.2);
+	color:#3F397D;
+}
+p{
+	font-family: inherit;
+	transition: all 1s;
+	color: black;
+}
+p:hover{
+	transform: scale(1.2);
+}
+.section-container {
+    padding: 10px 0;
+}
+.img-responsive{
+	transition:all 1s;
+}
+.img-responsive:hover{
+	transform: scale(1.1);
+}
